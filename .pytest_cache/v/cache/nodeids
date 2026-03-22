@@ -1,0 +1,4 @@
+[
+  "tests/test_generators.py::test_model_generator_basic",
+  "tests/test_generators.py::test_rule_generator_basic"
+]

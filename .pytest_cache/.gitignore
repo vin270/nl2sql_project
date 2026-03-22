@@ -1,0 +1,27 @@
+# Python environments
+.conda/
+venv/
+env/
+
+# Data & models (large files)
+data/
+models/
+*.csv
+*.jsonl
+*.db
+*.sqlite
+
+# ML model files
+*.safetensors
+*.pt
+*.bin
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+
+# Logs
+*.log
